@@ -1,0 +1,23 @@
+0.
+0.
+0.
+0
+0
+2.5
+5000
+100
+10000
+
+
+
+
+
+	ReadInput >> x_start;
+	ReadInput >> y_start;
+	ReadInput >> z_start;
+	ReadInput >> wave_function;
+	ReadInput >> transition_probability;
+	ReadInput >> delta;
+	ReadInput >> nequistep;
+	ReadInput >> nblk;
+	ReadInput >> nstep;

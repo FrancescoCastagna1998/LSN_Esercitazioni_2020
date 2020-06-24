@@ -1,0 +1,22 @@
+0.81
+0.62 
+0.0
+5.4
+3000  
+100
+5000
+100
+-3.
+3.
+
+
+   ReadInput >> mu;  
+   ReadInput >> sigma;
+   ReadInput >> start_position;  
+   ReadInput >> delta;
+   ReadInput >> nequi;
+   ReadInput >> nblk;
+   ReadInput >> nstep;
+   ReadInput >> nbins;				
+   ReadInput >> histogram_start;				
+   ReadInput >> histogram_end;			

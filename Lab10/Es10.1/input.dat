@@ -1,0 +1,18 @@
+32
+0
+1.4
+0.001
+10000
+1.
+0.
+
+
+   ReadInput >> ncity;
+   ReadInput >> circle_or_square; 
+   ReadInput >> starting_temp;
+   ReadInput >> end_temp;
+   ReadInput >> nsteps; 
+   ReadInput >> xstart_city; 
+   ReadInput >> ystart_city;
+
+   

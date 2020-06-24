@@ -1,0 +1,21 @@
+100.
+1.
+100.
+0.1
+0.25
+100
+100
+100
+
+  ReadInput >> starting_asset_price;
+  ReadInput >> delivery_time;
+  ReadInput >> strike_price;
+  ReadInput >> r;
+  ReadInput >> volatility;
+  ReadInput >> ninterval;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  
+
+
+
