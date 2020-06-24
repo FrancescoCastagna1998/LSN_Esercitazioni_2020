@@ -1,0 +1,10 @@
+2.
+6.
+100
+2000
+
+  ReadInput >> L;
+  ReadInput >> d;
+  ReadInput >> nblk;
+  ReadInput >> nthrow;
+  
